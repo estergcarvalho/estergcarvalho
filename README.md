@@ -11,10 +11,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/estergcarvalho/colored-icons@1.7.3/src/app/ci.min.css"/>
 <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=estergcarvalho&count_private=true&theme=synthwave&show_icons=true&custom_title=Ester%20Github%20Status&hide=issues"/>
-      </a>
-      <a height=145 align="center" href="https://github.com/estergcarvalho/github-readme-stats">
-          <img height=145 align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=estergcarvalho&layout=compact&theme=synthwave"/>
+          <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=estergcarvalho&count_private=true&theme=synthwave&show_icons=true&custom_title=Ester%20Github%20Status&hide=issues"/></a> <br><br>
+      <a height=140 align="center" href="https://github.com/estergcarvalho/github-readme-stats">
+          <img height=140 align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=estergcarvalho&layout=compact&theme=synthwave"/>
       </a>
 </p>
 
