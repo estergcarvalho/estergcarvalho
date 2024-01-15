@@ -8,6 +8,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/ester-g-tech/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.mail.google.com/mail/u/0/?tab=rm&ogbl#inbox>)
 
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/estergcarvalho/colored-icons@1.7.3/src/app/ci.min.css"/>
 <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,6 +16,7 @@
       <a height=140 align="center" href="https://github.com/estergcarvalho/github-readme-stats">
           <img height=140 align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=estergcarvalho&layout=compact&theme=synthwave"/>
       </a>
+      
 </p>
 
 ### Languages and Tools
@@ -26,8 +28,8 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="JSON" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>   
-    
-      
+    <img align="center" alt="JSON" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>       
 </div>
+
+
 
