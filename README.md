@@ -1,18 +1,14 @@
 <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=estergcarvalho&count_private=true&theme=dracula&show_icons=true&custom_title=Ester%20Github%20Status&hide=issues"
+      height=150 align="center"
+      src="https://github-readme-stats.vercel.app/api?username=estergcarvalho&count_private=true&theme=synthwave&show_icons=true&custom_title=Ester%20Github%20Status&hide=issues"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a height=150 align="center" href="https://github.com/estergcarvalho/github-readme-stats">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=estergcarvalho&layout=compact&theme=dracula"
-    />
-  </a>
-
+      <img height=150 align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=estergcarvalho&layout=compact&theme=synthwave"/>
+ </a>
 </p>
 
 ### Hi, I'm Ester 👋
@@ -20,6 +16,8 @@
 <div>
    <a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </div>
+
+  
 
  <br>
 👩‍💻 I am currently learning and studying about **Technology**
