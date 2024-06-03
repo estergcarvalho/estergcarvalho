@@ -23,7 +23,7 @@
   </a>
      
   <a href="https://mail.google.com/mail/u/2/?ogbl#inbox">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/estergcarvalho/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/estergcarvalho/count.svg?"/>
 </div>
 
 ###
@@ -40,10 +40,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estergcarvalho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estergcarvalho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&order=2" height="150" alt="languages graph"/><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=estergcarvalho&radius=16&theme=modern-lilac&area=true&order=5&bg_color=040505&color=dc9532&title_color=584556&point=7c7c7c&area_color=7657e9" height="249" alt="activity-graph graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=estergcarvalho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="135" alt="stats graph"/>
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estergcarvalho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="135" alt="languages graph"/>
+  
+  <img src="https://streak-stats.demolab.com?user=estergcarvalho&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="135" alt="streak graph"/>  
+   
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=estergcarvalho&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=false&bg_color=09131b&line=d9582c&point=f1e05a&area_color=09131b" height="300" alt="activity-graph graph"/>
 </div>
+
 
 ###
 
